@@ -14,4 +14,4 @@ This repository contains the design, code, and analysis data for the Slider-Cran
 * **Results:** High accuracy position tracking with <2% error rate compared to theoretical models.
 
 ## 👨‍💻 Contributors
-Işık Çalım & Team
+Işık Çalım, İclal Yiğitoğlu, Zeynep Bengisu Lisan, Büşra Kocaman, Levent Sancak, Haktan Gürsoy, Işık Çalım
